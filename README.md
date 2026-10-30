@@ -1,140 +1,186 @@
-# 👋 Hi, I'm Dipendra Kushwaha!
+<div align="center">
 
-### 💻 Computer Science Engineer | Python Developer | Data & AI Enthusiast
+# 👋 Hi, I'm Dipendra Kushwaha
 
-🚀 Passionate about building practical projects, solving complex problems, and exploring technologies that turn ideas into real-world solutions.
+### 💻 Data Analyst | Python Developer | Technology Enthusiast
 
-- 🎓 B.Tech Graduate in Computer Science & Engineering (IoT)
-- 💼 Currently working as a **Graduate Engineer Trainee (GET–IT)** at Victora Industries Pvt. Ltd.
-- 🐍 Interested in Python, Data Analytics, Machine Learning, and Artificial Intelligence
-- 🧠 Solved **500+ coding problems** across programming platforms
-- 🛠️ Building projects to strengthen my technical skills and expand my portfolio
-- 🌱 Continuously learning, experimenting, and improving every day
+*Turning data into insights and solving problems through technology.*
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Expertise-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/dipendra-kushwaha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dipendra.kushwaha.career@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering graduate specializing in the Internet of Things (IoT), with an interest in software development, data-driven problem-solving, and intelligent systems.
+I'm a Computer Science and Engineering graduate specializing in the Internet of Things (IoT), with a strong interest in Data Analytics, Python programming, and technology-driven problem-solving.
 
-Currently, I work as a Graduate Engineer Trainee in IT, where I support computer systems, connected devices, employee portals, data backups, and basic troubleshooting.
+Currently, I'm working as a **Graduate Engineer Trainee (GET–IT) at Victora Industries Pvt. Ltd.**, where I support IT systems, connected devices, employee portals, data backups, and troubleshooting.
 
-I enjoy exploring new technologies, developing Python projects, analyzing data, and applying machine learning to practical problems.
+I enjoy analyzing datasets, discovering meaningful patterns, and transforming raw data into actionable insights.
 
-**My goal is to keep learning, build impactful solutions, and grow as a technology professional.**
+- 🔭 **Currently working on:** IT support and practical technical projects
+- 🌱 **Currently learning:** Data Analytics, SQL, Python, and data visualization
+- 💬 **Ask me about:** Python, SQL, Excel, Power BI, and Data Structures & Algorithms
+- 🧠 **Problem-solving:** 800+ LeetCode problems solved
+- ⭐ **Achievement:** 5-Star Coder on HackerRank
+- 🎯 **Career interests:** Data Analytics, Software Development, and Machine Learning
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Programming & Query Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
 ### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-**Tools & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI, SQL
+### 🤖 Machine Learning
 
-### 🤖 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-**Libraries & Frameworks:** Scikit-learn, TensorFlow, Keras, OpenCV
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+**Core Competencies**
+
+- Data Cleaning and Exploratory Data Analysis (EDA)
+- Data Visualization and Descriptive Statistics
+- Insight Generation and Analytical Thinking
+- Problem-Solving and Algorithmic Thinking
+- IT Support and Troubleshooting
+- Data Backup and Information Security
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ☕ Coffee Trade Insights
-Analyzed global coffee production and trade data from 1990 to 2018 to discover production patterns and trends.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Category:** Data Analytics
 
-### 🩻 Chest X-Ray Pneumonia Detection
-Developed a deep learning-based image classification project to detect pneumonia from chest X-ray images, with a Streamlit interface for predictions.
+Analyzed global coffee production and trade data from 1990 to 2018 to understand production trends, market changes, and supply-demand patterns.
 
-**Tech Stack:** Python, TensorFlow, Keras, DenseNet121, Streamlit
+**Key Highlights**
+- Performed exploratory data analysis on global coffee data.
+- Identified production trends across different countries.
+- Found that Brazil contributed approximately 33% of global coffee production over the analyzed period.
+- Created visualizations to communicate findings and market trends.
 
-### 🎙️ Python Desktop Voice Assistant
-Created a voice-controlled desktop assistant that performs basic tasks using speech recognition and text-to-speech functionality.
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-**Tech Stack:** Python, SpeechRecognition, pyttsx3
+---
 
-### 🏥 Smart Clinic Queue Management System
-Developed a web-based system designed to help patients book appointments and monitor queue updates in real time.
+## 💼 Professional Experience
 
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Socket.IO
+### Graduate Engineer Trainee (GET–IT)
 
-🔗 **Explore my repositories:** [GitHub Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+**Victora Industries Pvt. Ltd.**  
+📍 Ballabhgarh, Faridabad | December 2025 – Present
+
+- Provide IT support and maintain company communication systems.
+- Manage computer systems, peripherals, and connected devices.
+- Support employee portal operations and resolve basic technical issues.
+- Assist with data storage, backups, and recovery procedures.
+- Support data privacy, information security, and system access control.
+- Troubleshoot basic computer hardware issues.
 
 ---
 
 ## 🏆 Achievements
 
-- 🧩 Solved **500+ coding problems** across LeetCode and HackerRank.
+- 🧩 Solved **800+ problems on LeetCode**.
 - ⭐ Earned the **5-Star Coder** title on HackerRank.
-- 💻 Practicing data structures, algorithms, and problem-solving through coding challenges.
-- 📚 Continuously developing practical projects to strengthen my programming skills.
+- 💻 Solved **500+ problems on GeeksforGeeks**.
+- 🚀 Participated in hackathons and technical workshops.
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**Bachelor of Technology (B.Tech)**  
+Computer Science & Engineering — Internet of Things (IoT)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+🏛️ Pranveer Singh Institute of Technology, Kanpur, Uttar Pradesh  
+📅 Graduated: 2026  
+📊 Percentage: 77.59%
 
 ---
 
-## 🎯 Current Goals
+## 📈 GitHub Statistics
 
-- 🚀 Build and publish more practical Python projects.
-- 📊 Strengthen my Data Analytics and visualization skills.
-- 🤖 Explore Machine Learning and AI applications.
-- 🧠 Improve problem-solving and algorithmic thinking.
-- 🌐 Develop projects that combine software, data, and intelligent systems.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dipendra-kushwaha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dipendra.kushwaha.career@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-💬 I'm always interested in technology, innovative ideas, collaborative projects, and opportunities to learn and grow.
-
 ---
 
-<p align="center">
-  <b>✨ Learn. Build. Solve. Repeat. ✨</b>
-</p>
+<div align="center">
 
-<p align="center">
-  Thanks for visiting my profile! ⭐
-</p>
+### ✨ Learn. Build. Analyze. Grow. ✨
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
