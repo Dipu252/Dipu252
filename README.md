@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/dipendra-kushwaha/">
+  <a href="https://www.linkedin.com/in/dipendra-kushwaha-4a6308276/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dipendra.kushwaha.career@gmail.com">
@@ -47,7 +47,7 @@ I enjoy analyzing datasets, discovering meaningful patterns, and transforming ra
 ### 💻 Programming & Query Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### 📊 Data Analytics & Visualization
@@ -149,11 +149,11 @@ Computer Science & Engineering — Internet of Things (IoT)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dipu252&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipu252&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Dipu252&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -162,10 +162,10 @@ Computer Science & Engineering — Internet of Things (IoT)
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Dipu252">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dipendra-kushwaha/">
+  <a href="https://www.linkedin.com/in/dipendra-kushwaha-4a6308276/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dipendra.kushwaha.career@gmail.com">
